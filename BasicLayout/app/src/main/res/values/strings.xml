@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BasicLayout</string>
+
+    <string name="favorite_collections">Favorite Collections</string>
+    <string name="recipe_type">Recipe Type</string>
+    <string name="ab1_breakfast">Breakfast</string>
+    <string name="ab2_main">Main</string>
+    <string name="ab3_dessert">Dessert</string>
+    <string name="ab4_soup">Soup</string>
+    <string name="ab5_salad">Salad</string>
+    <string name="ab6_appetizer">Appetizer</string>
+    <string name="ab7_drink">Drink</string>
+
+    <string name="fc1_short_mantras">Short mantras</string>
+    <string name="fc2_sandwich">Sandwich</string>
+    <string name="fc3_noodle">Noodle</string>
+    <string name="fc4_noodle_soup">Noodle Soup</string>
+    <string name="fc5_panecake">Pane Cake</string>
+    <string name="fc6_nightly_wind_down">Nightly wind down</string>
+    <string name="cd_fab_start">start</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
+    <string name="placeholder_search">Search</string>
+</resources>
