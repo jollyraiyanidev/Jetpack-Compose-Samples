@@ -11,7 +11,7 @@
 4. TextField View
 
 ## Screenshot
-![image](https://github.com/jollyraiyanidev/Jetpack-Compose-Samples/assets/79997945/5adfb9cf-306d-4370-81e6-9189d53c1ecf)
+<img src="https://github.com/jollyraiyanidev/Jetpack-Compose-Samples/assets/79997945/5adfb9cf-306d-4370-81e6-9189d53c1ecf" width="320" height="700">
 
 ## Simple Usage
 
