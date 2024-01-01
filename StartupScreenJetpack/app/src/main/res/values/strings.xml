@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StartupScreenJetpack</string>
+    <string name="slide_1">A New Way to Nourish</string>
+    <string name="slide_3">Guided Meditation</string>
+    <string name="slide_2">Plan Based Recipes</string>
+    <string name="slide_4">Yoga Practices</string>
+</resources>
